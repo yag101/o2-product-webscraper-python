@@ -1,5 +1,5 @@
 # o2-product-webscraper-python
-A quick-and-dirty web scrape of the O2 products phone page, bundled with an Airflow operator.
+A simple web scrape of the O2 phone product page, bundled with an Airflow operator.
 
 I have stored the web scrape as iPython notebook file so that the code can be easily explored.
 Please refer to the file 'O2-web-scrape.ipynb' for this.
